@@ -41,7 +41,7 @@
 
 # Cheaters list
 Add your nicknames here:
-*
-*
-*
+* nick1
+* nick2
+* nick3
 ...
