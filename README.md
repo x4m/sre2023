@@ -38,3 +38,10 @@
 * Ansible
 * Puppet
 * MongoDB
+
+# Cheaters list
+Add your nicknames here:
+*
+*
+*
+...
