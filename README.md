@@ -42,6 +42,6 @@
 # Cheaters list
 Add your nicknames here:
 * Александра Панькова
-* nick2
+* Тимофеева Виктория
 * nick3
 ...
