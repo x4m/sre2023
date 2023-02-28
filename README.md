@@ -21,7 +21,7 @@
 * DynDNS - настроить DNS на свою VM\router\RaspberryPI
 * TLS - настроить TLS на всоей VM, OpenSSL
 * Kubernetes
-* Elastic, Logstash, Kibana - показать как развернуть и как использовать
+* Elastic, Logstash, Kibana - показать как развернуть и как использовать - Политов Владислав РИ-301002
 * AWS S3, организация CDN, возможности
 * BGP, роутинг в больших сетях, простейшие настройки
 * Terraform - развернуть простейший сервис
@@ -46,4 +46,7 @@ Add your nicknames here:
 * Александр Малиновский
 * Екатерина Бородашкина
 * Фирсов Виктор
+* Rogi Vomigarbi
+* p8antasm
+* amfexd
 ...
