@@ -45,6 +45,7 @@ Add your nicknames here:
 * Тимофеева Виктория
 * Александр Малиновский
 * Екатерина Бородашкина
+* Фирсов Виктор
 * Rogi Vomigarbi
 * p8antasm
 * amfexd
