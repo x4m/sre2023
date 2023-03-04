@@ -44,7 +44,7 @@ Add your nicknames here:
 * Александра Панькова
 * Тимофеева Виктория
 * Александр Малиновский
-* Екатерина Бородашкина
+* Katy Beard
 * Фирсов Виктор
 * Rogi Vomigarbi
 * p8antasm
