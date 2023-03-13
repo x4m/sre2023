@@ -51,4 +51,4 @@ Add your nicknames here:
 * p8antasm
 * amfexd
 * Родионов Леонид
-* 
+* Смирнов Дмитрий
