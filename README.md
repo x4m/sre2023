@@ -35,7 +35,7 @@
 * PostGIS - у нас же курс про ГИС, давайте поговорим про карты
 * Prometheus/Grafana - красивые штуки чтобы рисовать графики денег на банковсом счёте
 * Saltstack
-* Ansible
+* Ansible - Лукашов Константин РИ-301002
 * Puppet
 * MongoDB
 
@@ -54,5 +54,6 @@ Add your nicknames here:
 * Крупин Константин
 * Melissa
 * Young Crowley
+* varel020
 * forrr
 * symph
