@@ -38,6 +38,7 @@
 * Ansible - Лукашов Константин РИ-301002
 * Puppet
 * MongoDB
+* Redash и BI системы - Hisork РИ-301002
 
 # Cheaters list
 Add your nicknames here:
