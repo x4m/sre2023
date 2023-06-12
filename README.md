@@ -58,3 +58,6 @@ Add your nicknames here:
 * forrr
 * symph
 * anokota
+* plgnds
+* trt17
+* disigk
