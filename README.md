@@ -58,3 +58,7 @@ Add your nicknames here:
 * varel020
 * forrr
 * symph
+* plgnds
+* trt17
+* disigk
+
