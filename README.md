@@ -59,6 +59,7 @@ Add your nicknames here:
 * forrr
 * symph
 * ktprm
+* SealWalrus
 * almost_do
 * anokota
 * plgnds
